@@ -1,4 +1,4 @@
-**Semantic-Image-Inpainting-using-DCGAN**  
+## Semantic Image Inpainting using DCGAN
 CS736 Project:  
 1)Parth Shettiwar: 170070021  
 2)Prajval Nakrani: 17D070014  
