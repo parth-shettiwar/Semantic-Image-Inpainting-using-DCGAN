@@ -10,7 +10,9 @@ The DCGAN training was done for 50 epochs using reference from [Pytorch DCGAN Tu
 
 Following are the results from the implmentation after running for 1500 iterations in finding optimal latent space vector.  
 
-![Results](Results/result.png)
-
-
-
+![Results](Results/result.png)  
+  
+**Running Instructions:**  
+1)For training: run python training.py after putting appropriate path for dataset [CelebA](https://www.kaggle.com/jessicali9530/celeba-dataset)
+in the code.  
+2)For post processing to perform poisson blending, give the path for input image and output image in the code and run python poisson_blending.py.  
