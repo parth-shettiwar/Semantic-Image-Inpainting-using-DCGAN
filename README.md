@@ -10,7 +10,7 @@ The DCGAN training was done for 50 epochs using reference from [Pytorch DCGAN Tu
 
 Following are the results from the implmentation after running for 1500 iterations in finding optimal latent space vector.  
 
-[!Results/result.png]
+![Results](Results/result.png)
 
 
 
